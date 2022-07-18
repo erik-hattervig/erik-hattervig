@@ -26,7 +26,5 @@ Some of the frameworks and languages I've had the pleasure of learning.
   - 📧 Email: erik@hattervigsoftwaresolutions.com
   
 ## What's my current schedule like?
-  - Currently my schedule is very full.
-  - Will be full for the forseeable future. (Next several months)
-  - It may take me some time to resopond to inquires.
+  - Currently my schedule is open and I am taking project requests.
  
